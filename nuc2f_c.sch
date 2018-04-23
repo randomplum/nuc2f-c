@@ -20,7 +20,7 @@ U 1 1 5ADD58A8
 P 10250 3500
 F 0 "P1" H 9820 3348 50  0000 R CNN
 F 1 "USB_C_Plug" H 9820 3439 50  0000 R CNN
-F 2 "" H 10400 3500 50  0001 C CNN
+F 2 "Connector_USB:USB_C_Plug_JAE_DX07P024AJ1" H 10400 3500 50  0001 C CNN
 F 3 "http://www.usb.org/developers/docs/usb_31_033017.zip" H 10400 3500 50  0001 C CNN
 	1    10250 3500
 	-1   0    0    1   
@@ -31,7 +31,7 @@ U 1 1 5ADD59EE
 P 4500 2200
 F 0 "U1" H 2150 3350 50  0000 C CNN
 F 1 "STM32F103TBUx" H 6600 3350 50  0000 C CNN
-F 2 "Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm" H 6900 3275 50  0001 R TNN
+F 2 "Package_DFN_QFN:QFN-36-1EP_6x6mm_P0.5mm_EP3.7x3.7mm" H 6900 3275 50  0001 R TNN
 F 3 "http://www.st.com/st-web-ui/static/active/en/resource/technical/document/datasheet/CD00161566.pdf" H 4500 2200 50  0001 C CNN
 	1    4500 2200
 	1    0    0    -1  
@@ -42,7 +42,7 @@ U 1 1 5ADD5EF8
 P 5800 7000
 F 0 "U2" H 5800 7478 50  0000 C CNN
 F 1 "ATECC508A" H 5800 7387 50  0000 C CNN
-F 2 "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm" H 5850 6750 50  0001 L CNN
+F 2 "Package_DFN_QFN:DFN-8-1EP_3x2mm_P0.5mm_EP1.36x1.46mm" H 5850 6750 50  0001 L CNN
 F 3 "http://ww1.microchip.com/downloads/en/DeviceDoc/21178G.pdf" H 5800 6900 50  0001 C CNN
 	1    5800 7000
 	1    0    0    -1  
